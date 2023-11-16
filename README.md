@@ -1,7 +1,7 @@
 # Me:
 ## I'm an Economics and Law student at Universidad de Costa Rica. I'm passionate about a lot of things and recently have gotten interested in programming. I wouldn't say I know programming but definitely find it interesting and am looking forward becoming a decent data analyst and a decent programmer. <br>
 
-## The purpose of this GitHub is for me to upload some of my university courses hoping that it can be useful for other people and also creating some of my own code. My intent is to upload some books of my courses in university as well as (may be in the future) creating my own packages for other people to use.
+<p>The purpose of this GitHub is for me to upload some of my university courses hoping that it can be useful for other people and also creating some of my own code. My intent is to upload some books of my courses in university as well as (may be in the future) creating my own packages for other people to use.</p>
 
 ### Ps: I hope to come back somewhere in the near future and see that I've achieved the goals that I've set here.
 
