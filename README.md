@@ -1,6 +1,6 @@
 # A little bit about myself:
 
-## I'm an Economics and Law student at Universidad de Costa Rica. I'm passionate about a lot of things and recently have gotten interested in programming. I wouldn't say I know programming but definitely find it interesting and am looking forward becoming a decent data analyst and a decent programmer. <br>
+## I'm an Economics and Law graduate from Universidad de Costa Rica. I'm passionate about monetary policy transmission in small, open economies as well the interaction between monetary and fiscal policy. Currently doing my Master's degree at the University of Warwick.<br>
 
 <p>The purpose of this GitHub is for me to upload some of my university courses hoping that it can be useful for other people and also creating some of my own code, as well as a presentation of myself by creating a sort of portfolio of all the things that I've worked on. My intent is to upload some books of my courses in university as well as (may be in the future) creating my own packages for other people to use.</p>
 
